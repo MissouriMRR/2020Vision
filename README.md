@@ -5,7 +5,7 @@ Goal is to have groups of people collaborate to create a larger scale project th
 
 ## Git
 Getting remote repo on local pc
-* cd /<directory/>  # Change into a directory you want the folder in
+* cd /<directory&gt;  # Change into a directory you want the folder in
 * git clone <url>  # Download the remote repository to local pc
 
 Before working
