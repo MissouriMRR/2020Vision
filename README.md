@@ -37,17 +37,21 @@ Create robust unit tests so when you change your code, unit tests do not need to
 # TODO - Link everythin
 
 Interested in Autonomy?
+
     Create an ant simulator where all of the ants think independantly with simple logic and create complex emergent behaviors.
 
 Interested in writing code for the Graphics Card?
+
     Write a voroni tesselation program in OpenCL
 
 Interested in more complex Computer Vision?
+
     Track cells w/ blob tracking.
 
     Identify objects in space with shape detection[or something else cool].
 
 Interested in Machine Learning?
+
     Make a handwritten digit classifier w/ K-Nearest Neighbors, and upgrade it to a Neural Network!
 
     Create a reinforcement learning algorithm to play ...!
