@@ -26,7 +26,7 @@ Before working
 * * git checkout <feature/hotfix&gt;/<branchname&gt;
 
 ## Unit testing
-Ensure every feature responds to input the way you expect in an automated way.
+Ensure every feature responds to input the way you expect _in an automated way._
 
 [Python unit testing library](https://docs.python.org/3/library/unittest.html)
 
