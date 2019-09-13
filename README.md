@@ -5,24 +5,24 @@ Goal is to have groups of people collaborate to create a larger scale project th
 
 ## Git
 Getting remote repo on local pc
-* cd /<directory&gt;  # Change into a directory you want the folder in
-* git clone <url>  # Download the remote repository to local pc
+* cd <directory&gt;  # Change into a directory you want the folder in
+* git clone <url&gt;  # Download the remote repository to local pc
 
 Before working
 * git pull  # pull other peoples work to your local machine
-* <edit code>
+* <edit code&gt;
 * git status  # see what git sees
-* git add <files you want updated on repo>
+* git add <files you want updated on repo&gt;
 * git commit -m "Description of changes here."
 * git push  # push your updates to the remote repo
 
 ## SCRUM
 * Most people work alone but then code all comes together at end
 * Create branches to Isolate code 
-* * git checkout -b feature/<featurename>  # When creating novel code
-* * git checkout -b hotfix/<hotfixname>  # When combining / patching features
+* * git checkout -b feature/<featurename&gt;  # When creating novel code
+* * git checkout -b hotfix/<hotfixname&gt;  # When combining / patching features
 * Switch between branches
-* * git checkout <feature/hotfix>/<branchname>
+* * git checkout <feature/hotfix&gt;/<branchname&gt;
 
 ## Unit testing
 Ensure every feature responds to input the way you expect in an automated way.
