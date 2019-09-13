@@ -17,8 +17,9 @@ Before working
 * git push  # push your updates to the remote repo
 
 ## SCRUM
-* Most people work alone but then code all comes together at end
-* Create branches to Isolate code 
+* Ensure necessary tasks are being completed.
+* Most people work alone but then code all comes together at end.
+* Create branches to Isolate code
 * * git checkout -b feature/<featurename&gt;  # When creating novel code
 * * git checkout -b hotfix/<hotfixname&gt;  # When combining / patching features
 * Switch between branches
