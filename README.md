@@ -33,28 +33,24 @@ Ensure every feature responds to input the way you expect _in an automated way._
 Create robust unit tests so when you change your code, unit tests do not need to change much.
 
 ## Project Ideas
-Ant sim - autonomy
-OpenCL voroni tesselation
-Cell tracking
-Spacial body identification
-Digit classification w/ KNN/NN
 
-Classy group
-	Detect planets in space pictures?
+# TODO - Link everythin
 
-	Object tracking
+Interested in Autonomy?
+    Create an ant simulator where all of the ants think independantly with simple logic and create complex emergent behaviors.
 
-ML group
-	Recognize handwritten numbers given in some sort of on screen drawing. 
+Interested in writing code for the Graphics Card?
+    Write a voroni tesselation program in OpenCL
 
-    * Make model agnostic so you may switch out model or what
-    * * start w/ KNN?
-    * * use pytorch to create a nn that will recognize digits -- this will better scale to recognizing more classes
+Interested in more complex Computer Vision?
+    Track cells w/ blob tracking.
 
+    Identify objects in space with shape detection[or something else cool].
 
-    Create a reinforcement learning algorithm to play DOOM.
-    * Can have leaderboard for which does best?
-    * resources I gave ayden here
+Interested in Machine Learning?
+    Make a handwritten digit classifier w/ K-Nearest Neighbors, and upgrade it to a Neural Network!
+
+    Create a reinforcement learning algorithm to play ...!
 
 
 ## Resources
