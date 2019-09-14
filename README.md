@@ -1,7 +1,7 @@
 # 2019Vision
 Collaboration!
 
-Goal is to have groups of people collaborate to create a larger scale project than any one person would be able to alone.
+Goal is to create some interesting projects while waiting for Mission 9 details to be released.
 
 ## Git
 Getting remote repo on local pc
