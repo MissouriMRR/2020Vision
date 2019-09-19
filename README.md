@@ -1,6 +1,4 @@
 # 2019Vision
-Collaboration!
-
 Goal is to create some interesting projects while waiting for Mission 9 details to be released.
 
 ## Git
