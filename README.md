@@ -34,37 +34,39 @@ Create robust unit tests so when you change your code, unit tests do not need to
 
 ## Project Ideas
 
-# TODO - Link everythin
-
 Interested in Autonomy?
 
-* Flocking algorithm, all agents think independantly but create emergent flocking behavior
+* [Flocking algorithm](https://www.red3d.com/cwr/boids/), all agents think independantly but create emergent behavior.
 
-* Create an ant simulator where all of the ants think independantly with simple logic and create complex emergent behaviors.
+* [Ant colony simulator](https://web.stanford.edu/~jayantt/data/ants.pdf), trying to mimic the use of pheremones to create intelligent, efficient communities.
 
 Interested in writing code for the Graphics Card?
 
-* Write a voroni tesselation program in OpenCL
+* Write a [voroni tesselation](https://en.wikipedia.org/wiki/Voronoi_diagram) program with [OpenCL.](https://www.codeproject.com/articles/92788/introductory-tutorial-to-opencl)
 
-* Apply convolutions to images super fast
+* Apply [convolutions](https://en.wikipedia.org/wiki/Kernel_(image_processing)) to images super fast with [OpenCL.](https://www.codeproject.com/articles/92788/introductory-tutorial-to-opencl)
 
-Interested in more complex Computer Vision?
+Interested in analytic Computer Vision methods?
+
+* Use scipy [generic_filter](https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.generic_filter.html) to simulate a [cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton) game. [Wolfram 1D Automaton](https://natureofcode.com/book/chapter-7-cellular-automata/), [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), [Langton's Ant](https://en.wikipedia.org/wiki/Langton%27s_ant), [Wireworld](https://en.wikipedia.org/wiki/Wireworld).
+
+
 
 * Perform skeletonization on an image w/ erosion and dialation convolutions.
 
-* Use scipy-generic filter to simulate the game of life or another cellular automaton game.
-
-* Track cells w/ blob tracking.
+* Track cells w/ blob tracking, .
 
 * Identify objects in space with shape detection[or something else cool].
 
+
+
 Interested in Machine Learning?
 
-* Use k-means to to change the color of tomatoes in a salad to blue.
+* Use [k-means](https://www.datascience.com/blog/k-means-clustering) unsupervised clustering algorithm to change the color of [tomatoes in a salad to blue](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.YCwt0csrYMHvB2aPOqESqwHaLH%26pid%3DApi&f=1) with [sklearn.](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
 
-* Make a handwritten digit classifier w/ K-Nearest Neighbors, and upgrade it to a Neural Network!
+* Make a handwritten numerical digit classifier w/ [K-Nearest Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm), and upgrade it to a Neural Network! Use the [MNIST dataset to train the model.](http://yann.lecun.com/exdb/mnist/)
 
-* Create a reinforcement learning algorithm to play some openai-gym games!
+* Create a [reinforcement learning algorithm](https://www.cse.unsw.edu.au/~cs9417ml/RL1/index.html) to play some [openai-gym games](https://gym.openai.com/docs/), use [q-learning](https://en.wikipedia.org/wiki/Q-learning)! [Sample code.](https://github.com/coledie/q-learning)
 
 
 ## Resources
