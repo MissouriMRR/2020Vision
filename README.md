@@ -50,15 +50,11 @@ Interested in analytic Computer Vision methods?
 
 * Use scipy [generic_filter](https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.generic_filter.html) to simulate a [cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton) game. [Wolfram 1D Automaton](https://natureofcode.com/book/chapter-7-cellular-automata/), [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), [Langton's Ant](https://en.wikipedia.org/wiki/Langton%27s_ant), [Wireworld](https://en.wikipedia.org/wiki/Wireworld).
 
+* Use scipy [convolve](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.convolve.html) to create an [edge detector](https://www.youtube.com/watch?v=uihBwtPIBxM), [blur filter](https://www.youtube.com/watch?v=C_zFhWdM4ic) or a [shape detector on space images(?).](http://www.ijcte.org/papers/428-G1120.pdf)
 
+* Perform image [skeletonization](https://en.wikipedia.org/wiki/Morphological_skeleton) or clean up images with [erosion](https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.binary_erosion.html#scipy.ndimage.binary_erosion) and [dialation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.binary_dilation.html#scipy.ndimage.binary_dilation) convolutions.
 
-* Perform skeletonization on an image w/ erosion and dialation convolutions.
-
-* Track cells w/ blob tracking, .
-
-* Identify objects in space with shape detection[or something else cool].
-
-
+* Track cells or any simple object with [blob tracking.](http://www.camera-sdk.com/p_97-how-to-implement-blob-binary-large-object-tracking-onvif.html)
 
 Interested in Machine Learning?
 
