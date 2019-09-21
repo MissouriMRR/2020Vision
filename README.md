@@ -23,13 +23,11 @@ Create robust unit tests so when you change your code, unit tests do not need to
 
 ## Project Ideas
 
-__Numpy Basics -- Should check this out before anything else!__
+__Numpy Basics -- Should check these out before anything else!__
 
-* Monte carlo search of the game craps.
+* [Monte carlo simulation](https://crunchingnumbers.live/2016/01/24/monte-carlo-simulations-craps/) of the game [craps.](http://www.crapsage.com/craps_rules.php) [Example here.](https://github.com/MissouriMRR/2019Vision/tree/master/Monte-Carlo-Simulation)
 
-* Make a convolution applier with pure numpy, gaussian blur, sobel
-
-
+* [Image convolver](https://en.wikipedia.org/wiki/Kernel_(image_processing)) with Numpy -- [blurring](https://www.youtube.com/watch?v=C_zFhWdM4ic), [sobel operator for edge detection.](https://www.youtube.com/watch?v=uihBwtPIBxM)
 
 
 __Interested in Autonomy?__
@@ -37,6 +35,7 @@ __Interested in Autonomy?__
 * [Flocking algorithm](https://www.red3d.com/cwr/boids/), all agents think independantly but create emergent behavior.
 
 * [Ant colony simulator](https://web.stanford.edu/~jayantt/data/ants.pdf), trying to mimic the use of pheremones to create intelligent, efficient communities.
+
 
 __Interested in writing code for the Graphics Card?__
 
@@ -46,15 +45,14 @@ __Interested in writing code for the Graphics Card?__
 
 * Compute planet orbits really fast with [OpenCL.](https://www.codeproject.com/articles/92788/introductory-tutorial-to-opencl)
 
+
 __Interested in analytic Computer Vision methods?__
 
-* Make function that can resize an image to 1/2, 2/3, 3/4 height and width.
-* Make function that can expand an image to 2x, 3x with interpolation.
+* Shrink images to 1/2, 2/3, 3/4 scale with selective column dropping.
 
+* Expand images to 2x, 3x scale with [interpolation.](https://en.wikipedia.org/wiki/Interpolation)
 
-
-
-* Use scipy [generic_filter](https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.generic_filter.html) to simulate a [cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton) game. [Wolfram 1D Automaton](https://natureofcode.com/book/chapter-7-cellular-automata/), [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), [Langton's Ant](https://en.wikipedia.org/wiki/Langton%27s_ant), [Wireworld](https://en.wikipedia.org/wiki/Wireworld).
+* Use scipy [generic_filter](https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.generic_filter.html) to simulate a [cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton) game. [Wolfram 1D Automaton](https://natureofcode.com/book/chapter-7-cellular-automata/), [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), [Langton's Ant](https://en.wikipedia.org/wiki/Langton%27s_ant), [Wireworld.](https://en.wikipedia.org/wiki/Wireworld)
 
 * Use scipy [convolve](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.convolve.html) to create an [edge detector](https://www.youtube.com/watch?v=uihBwtPIBxM), [blur filter](https://www.youtube.com/watch?v=C_zFhWdM4ic) or a [shape detector on space images(?).](http://www.ijcte.org/papers/428-G1120.pdf)
 
@@ -62,13 +60,10 @@ __Interested in analytic Computer Vision methods?__
 
 * Track cells or any simple object with [blob tracking.](http://www.camera-sdk.com/p_97-how-to-implement-blob-binary-large-object-tracking-onvif.html)
 
+
 __Interested in Machine Learning?__
 
-* Write knn w/ shell or your own
-
-
-
-
+* Write a [K-Nearest Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) model to predict the best background color to go with any given text color using [this already written code](https://github.com/MissouriMRR/2019Vision/tree/master/Background-Chooser-Shell) or your own interface. Alternatively write a model for automated weather prediction.
 
 * Use [k-means](https://www.datascience.com/blog/k-means-clustering) unsupervised clustering algorithm to change the color of [tomatoes in a salad to blue](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.YCwt0csrYMHvB2aPOqESqwHaLH%26pid%3DApi&f=1) with [sklearn.](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
 
