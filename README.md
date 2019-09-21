@@ -58,12 +58,12 @@ __Interested in analytic Computer Vision methods?__
 
 * Perform image [skeletonization](https://en.wikipedia.org/wiki/Morphological_skeleton) or clean up images with [erosion](https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.binary_erosion.html#scipy.ndimage.binary_erosion) and [dialation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.binary_dilation.html#scipy.ndimage.binary_dilation) convolutions.
 
-* Track cells or any simple object with [blob tracking.](http://www.camera-sdk.com/p_97-how-to-implement-blob-binary-large-object-tracking-onvif.html)
+* Track cells or any simple object with [blob tracking](http://www.camera-sdk.com/p_97-how-to-implement-blob-binary-large-object-tracking-onvif.html), might use [mean shift.](https://www.youtube.com/watch?v=FsFreHtLXss)
 
 
 __Interested in Machine Learning?__
 
-* Write a [K-Nearest Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) model to predict the best background color to go with any given text color using [this already written code](https://github.com/MissouriMRR/2019Vision/tree/master/Background-Chooser-Shell) or your own interface. Alternatively write a model for automated weather prediction.
+* Write a [K-Nearest Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) model to predict the best background color to go with any given text color using [this already written GUI](https://github.com/MissouriMRR/2019Vision/tree/master/Background-Chooser-Shell) or your own interface. Alternatively write a model for automated weather prediction.
 
 * Use [k-means](https://www.datascience.com/blog/k-means-clustering) unsupervised clustering algorithm to change the color of [tomatoes in a salad to blue](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.YCwt0csrYMHvB2aPOqESqwHaLH%26pid%3DApi&f=1) with [sklearn.](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
 
