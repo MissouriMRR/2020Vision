@@ -23,21 +23,36 @@ Create robust unit tests so when you change your code, unit tests do not need to
 
 ## Project Ideas
 
-Interested in Autonomy?
+__Numpy Basics -- Should check this out before anything else!__
+
+* Monte carlo search of the game craps.
+
+* Make a convolution applier with pure numpy, gaussian blur, sobel
+
+
+
+
+__Interested in Autonomy?__
 
 * [Flocking algorithm](https://www.red3d.com/cwr/boids/), all agents think independantly but create emergent behavior.
 
 * [Ant colony simulator](https://web.stanford.edu/~jayantt/data/ants.pdf), trying to mimic the use of pheremones to create intelligent, efficient communities.
 
-Interested in writing code for the Graphics Card?
+__Interested in writing code for the Graphics Card?__
 
 * Follow this [OpenCL tutorial.](https://www.codeproject.com/articles/92788/introductory-tutorial-to-opencl)
 
 * Write a [voroni tesselation](https://en.wikipedia.org/wiki/Voronoi_diagram) program with [OpenCL.](https://www.codeproject.com/articles/92788/introductory-tutorial-to-opencl)
 
-* Apply [convolutions](https://en.wikipedia.org/wiki/Kernel_(image_processing)) to images super fast with [OpenCL.](https://www.codeproject.com/articles/92788/introductory-tutorial-to-opencl)
+* Compute planet orbits really fast with [OpenCL.](https://www.codeproject.com/articles/92788/introductory-tutorial-to-opencl)
 
-Interested in analytic Computer Vision methods?
+__Interested in analytic Computer Vision methods?__
+
+* Make function that can resize an image to 1/2, 2/3, 3/4 height and width.
+* Make function that can expand an image to 2x, 3x with interpolation.
+
+
+
 
 * Use scipy [generic_filter](https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.generic_filter.html) to simulate a [cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton) game. [Wolfram 1D Automaton](https://natureofcode.com/book/chapter-7-cellular-automata/), [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), [Langton's Ant](https://en.wikipedia.org/wiki/Langton%27s_ant), [Wireworld](https://en.wikipedia.org/wiki/Wireworld).
 
@@ -47,7 +62,13 @@ Interested in analytic Computer Vision methods?
 
 * Track cells or any simple object with [blob tracking.](http://www.camera-sdk.com/p_97-how-to-implement-blob-binary-large-object-tracking-onvif.html)
 
-Interested in Machine Learning?
+__Interested in Machine Learning?__
+
+* Write knn w/ shell or your own
+
+
+
+
 
 * Use [k-means](https://www.datascience.com/blog/k-means-clustering) unsupervised clustering algorithm to change the color of [tomatoes in a salad to blue](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.YCwt0csrYMHvB2aPOqESqwHaLH%26pid%3DApi&f=1) with [sklearn.](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
 
@@ -57,10 +78,10 @@ Interested in Machine Learning?
 
 
 ## Resources
-Intro_to_Numpy.pdf in this repo
+[Intro_to_Numpy.pdf](https://github.com/MissouriMRR/2019Vision/blob/master/Intro_to_Numpy.pdf)
 
 [Intro to CV w/ Numpy](https://www.kaggle.com/coledie/intro-to-computer-vision)
 
 [CV w/ Scipy and OpenCV](https://www.kaggle.com/coledie/intro-to-computer-vision-2)
 
-[Vision overview in team drive](https://drive.google.com/open?id=1dT2ow6sCkQifk0xZS4s1N0_G-nCKfon1znZfymsH39w)
+[Vision Overview in team drive](https://drive.google.com/open?id=1dT2ow6sCkQifk0xZS4s1N0_G-nCKfon1znZfymsH39w)
