@@ -40,6 +40,8 @@ Interested in Autonomy?
 
 Interested in writing code for the Graphics Card?
 
+* Follow this [OpenCL tutorial.](https://www.codeproject.com/articles/92788/introductory-tutorial-to-opencl)
+
 * Write a [voroni tesselation](https://en.wikipedia.org/wiki/Voronoi_diagram) program with [OpenCL.](https://www.codeproject.com/articles/92788/introductory-tutorial-to-opencl)
 
 * Apply [convolutions](https://en.wikipedia.org/wiki/Kernel_(image_processing)) to images super fast with [OpenCL.](https://www.codeproject.com/articles/92788/introductory-tutorial-to-opencl)
@@ -64,7 +66,7 @@ Interested in Machine Learning?
 
 
 ## Resources
-[Intro to Numpy](https://github.com/coledie/Monte-Carlo-Simulation)
+Intro_to_Numpy.pdf in this repo
 
 [Intro to CV w/ Numpy](https://www.kaggle.com/coledie/intro-to-computer-vision)
 
