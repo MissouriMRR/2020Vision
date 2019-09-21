@@ -1,7 +1,7 @@
 # 2019Vision
 Goal is to create some interesting projects while waiting for Mission 9 details to be released.
 
-## Git
+## Using Git
 Getting remote repo on local pc
 * cd <directory&gt;  # Change into a directory you want the folder in
 * git clone <url&gt;  # Download the remote repository to local pc
@@ -13,15 +13,6 @@ Before working
 * git add <files you want updated on repo&gt;
 * git commit -m "Description of changes here."
 * git push  # push your updates to the remote repo
-
-## SCRUM
-* Ensure necessary tasks are being completed.
-* Most people work alone but then code all comes together at end.
-* Create branches to Isolate code
-* * git checkout -b <team&gt;/feature/<featurename&gt;  # When creating novel code
-* * git checkout -b <team&gt;/hotfix/<hotfixname&gt;  # When combining / patching features
-* Switch between branches
-* * git checkout <team&gt;/<feature/hotfix&gt;/<branchname&gt;
 
 ## Unit testing
 Ensure every feature responds to input the way you expect _in an automated way._
