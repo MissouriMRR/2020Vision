@@ -58,7 +58,7 @@ __Interested in analytic Computer Vision methods?__
 
 * Perform image [skeletonization](https://en.wikipedia.org/wiki/Morphological_skeleton) or clean up images with [erosion](https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.binary_erosion.html#scipy.ndimage.binary_erosion) and [dialation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.binary_dilation.html#scipy.ndimage.binary_dilation) convolutions.
 
-* Track cells or any simple object with [blob tracking](http://www.camera-sdk.com/p_97-how-to-implement-blob-binary-large-object-tracking-onvif.html), might use [mean shift.](https://www.youtube.com/watch?v=FsFreHtLXss) This likely applicable to our Mission 9 tasks.
+* Track cells or any simple object with [blob tracking](http://www.camera-sdk.com/p_97-how-to-implement-blob-binary-large-object-tracking-onvif.html), might use [mean shift.](https://www.youtube.com/watch?v=FsFreHtLXss) This likely applicable to our Mission 9 tasks. [This blog post.](https://www.pyimagesearch.com/2015/09/21/opencv-track-object-movement/)
 
 
 __Interested in Machine Learning?__
