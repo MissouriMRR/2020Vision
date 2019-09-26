@@ -39,11 +39,11 @@ __Interested in Autonomy?__
 
 __Interested in writing code for the Graphics Card?__
 
-* Follow this [OpenCL tutorial.](https://www.codeproject.com/articles/92788/introductory-tutorial-to-opencl)
+* Follow this [OpenCL tutorial by Intel to make a image convolver.](https://software.intel.com/en-us/articles/jumpstart-tutorial)
 
-* Write a [voroni tesselation](https://en.wikipedia.org/wiki/Voronoi_diagram) program with [OpenCL.](https://www.codeproject.com/articles/92788/introductory-tutorial-to-opencl)
+* Write a [voroni tesselation](https://en.wikipedia.org/wiki/Voronoi_diagram) program with [OpenCL.](https://software.intel.com/en-us/articles/jumpstart-tutorial)
 
-* Compute planet orbits really fast with [OpenCL.](https://www.codeproject.com/articles/92788/introductory-tutorial-to-opencl)
+* Compute planet orbits really fast with [OpenCL.](https://software.intel.com/en-us/articles/jumpstart-tutorial)
 
 
 __Interested in analytic Computer Vision methods?__
@@ -58,7 +58,7 @@ __Interested in analytic Computer Vision methods?__
 
 * Perform image [skeletonization](https://en.wikipedia.org/wiki/Morphological_skeleton) or clean up images with [erosion](https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.binary_erosion.html#scipy.ndimage.binary_erosion) and [dialation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.binary_dilation.html#scipy.ndimage.binary_dilation) convolutions.
 
-* Track cells or any simple object with [blob tracking](http://www.camera-sdk.com/p_97-how-to-implement-blob-binary-large-object-tracking-onvif.html), might use [mean shift.](https://www.youtube.com/watch?v=FsFreHtLXss)
+* Track cells or any simple object with [blob tracking](http://www.camera-sdk.com/p_97-how-to-implement-blob-binary-large-object-tracking-onvif.html), might use [mean shift.](https://www.youtube.com/watch?v=FsFreHtLXss) This likely applicable to our Mission 9 tasks.
 
 
 __Interested in Machine Learning?__
@@ -71,6 +71,7 @@ __Interested in Machine Learning?__
 
 * Create a [reinforcement learning algorithm](https://www.cse.unsw.edu.au/~cs9417ml/RL1/index.html) to play some [openai-gym games](https://gym.openai.com/docs/), use [q-learning](https://en.wikipedia.org/wiki/Q-learning)! [Sample code.](https://github.com/coledie/q-learning)
 
+* Currently working on a PyTorch / Deep learning notebook, in the meantime check out [these videos.](https://www.youtube.com/watch?v=aircAruvnKk&t=94s) This will be directly applicable to Mission 9 tasks.
 
 ## Resources
 [Intro_to_Numpy.pdf](https://github.com/MissouriMRR/2019Vision/blob/master/Intro_to_Numpy.pdf)
