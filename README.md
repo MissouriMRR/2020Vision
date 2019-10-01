@@ -74,7 +74,7 @@ __Interested in Machine Learning?__
 * Currently working on a PyTorch / Deep learning notebook, in the meantime check out [these videos.](https://www.youtube.com/watch?v=aircAruvnKk&t=94s) This will be directly applicable to Mission 9 tasks.
 
 ## Resources
-[Intro_to_Numpy.pdf](https://github.com/MissouriMRR/2019Vision/blob/master/Intro_to_Numpy.pdf)
+[Intro to Numpy](https://www.kaggle.com/coledie/intro-to-numpy/)
 
 [Intro to CV w/ Numpy](https://www.kaggle.com/coledie/intro-to-computer-vision)
 
