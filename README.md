@@ -39,11 +39,11 @@ __Interested in Autonomy?__
 
 __Interested in writing code for the Graphics Card?__
 
-* Follow this [OpenCL tutorial by Intel to make a image convolver.](https://software.intel.com/en-us/articles/jumpstart-tutorial)
+* Follow this [CUDA tutorial.](https://towardsdatascience.com/writing-lightning-fast-code-with-cuda-c18677dcdd5f)
 
-* Write a [voroni tesselation](https://en.wikipedia.org/wiki/Voronoi_diagram) program with [OpenCL.](https://software.intel.com/en-us/articles/jumpstart-tutorial)
+* Write a [voroni tesselation](https://en.wikipedia.org/wiki/Voronoi_diagram) program with [CUDA.](https://towardsdatascience.com/writing-lightning-fast-code-with-cuda-c18677dcdd5f)
 
-* Compute planet orbits really fast with [OpenCL.](https://software.intel.com/en-us/articles/jumpstart-tutorial)
+* Compute planet orbits really fast with [CUDA.](https://towardsdatascience.com/writing-lightning-fast-code-with-cuda-c18677dcdd5f)
 
 
 __Interested in analytic Computer Vision methods?__
