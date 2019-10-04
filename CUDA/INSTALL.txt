@@ -1,0 +1,14 @@
+## CUDA Installation Instructions
+For any operating system, to run CUDA you will need an NVIDIA graphics card as
+well as the corresponding NVIDIA drivers.
+
+# Linux
+	sudo apt-get nvidia-cuda-toolkit
+
+# Windows / Mac
+	https://developer.nvidia.com/cuda-downloads
+	Verify cuda/v10.x/bin is in path.
+
+After installing the toolkit, run the hello world program and ensure the
+output is 'Hello World!'. If it is not, ensure nvidia drivers are active,
+restart your terminal and maybe even your whole PC.
