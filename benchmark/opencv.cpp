@@ -6,10 +6,14 @@
 #include <opencv2/opencv.hpp>
 #include <opencv2/core/ocl.hpp>
 
+#include <opencv2/core.hpp>
+#include <opencv2/highgui.hpp>
+#include <opencv2/gpu/gpu.hpp>
 using namespace std;
 
 int main()
 {
+    cout << cv::gpu::getDevice() << endl;
     cv::ocl::Context context;
     if (!context.create(cv::ocl::Device::TYPE_GPU))
     {
