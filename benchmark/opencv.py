@@ -7,10 +7,6 @@ import numpy as np
 import cv2
 
 
-
-cv2.Device(context.device(0))
-
-
 def convolve(img, kernel_size):
 	"""
 	Run convolution with opencv.
@@ -40,7 +36,7 @@ if __name__ == '__main__':
 
 	kernel = (31, 31)
 	gpu_img = cv2.UMat(img)
-	# cpu_time = timeit(lambda : convolve(img, kernel), number=4)
+	cpu_time = timeit(lambda : convolve(img, kernel), number=4)
 	print("Moving to GPU")
 	gpu_time = timeit(lambda : convolve(gpu_img, kernel), number=8)
 
