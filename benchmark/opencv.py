@@ -36,9 +36,9 @@ if __name__ == '__main__':
 
 	kernel = (31, 31)
 	gpu_img = cv2.UMat(img)
-	cpu_time = timeit(lambda : convolve(img, kernel), number=4)
+	cpu_time = timeit(lambda : convolve(img, kernel), number=2)
 	print("Moving to GPU")
-	gpu_time = timeit(lambda : convolve(gpu_img, kernel), number=8)
+	gpu_time = timeit(lambda : convolve(gpu_img, kernel), number=2)
 
 	print("CPU time: {0}, GPU time: {1}".format(cpu_time, gpu_time))
 
