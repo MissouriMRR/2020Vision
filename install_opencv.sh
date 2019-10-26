@@ -26,11 +26,11 @@ sudo apt-get install -y libv4l-dev v4l-utils qv4l2 v4l2ucp
 sudo apt-get install -y curl
 sudo apt-get update
 
-echo "** Download opencv-3.4.0"
+echo "** Download opencv-4.1.1"
 cd $folder
-curl -L https://github.com/opencv/opencv/archive/3.4.0.zip -o opencv-3.4.0.zip
-unzip opencv-3.4.0.zip 
-cd opencv-3.4.0/
+curl -L https://github.com/opencv/opencv/archive/4.1.1.zip -o opencv-4.1.1.zip
+unzip opencv-4.1.1.zip 
+cd opencv-4.1.1/
 
 echo "** Building..."
 mkdir release
@@ -40,6 +40,7 @@ cmake -D WITH_CUDA=ON -D CUDA_ARCH_BIN="6.2" -D CUDA_ARCH_PTX="" -D WITH_GSTREAM
 make -j4
 sudo make install -j4
 
-echo "** Install opencv-3.4.0 successfully"
-echo "** Bye :)"
+sudo apt-get install -y cowsay
+echo "** Install opencv-4.1.1 successfully"
+cowsay "Good work!"
 
