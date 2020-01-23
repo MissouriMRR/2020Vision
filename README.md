@@ -25,7 +25,7 @@ Create robust unit tests so when you change your code, unit tests do not need to
 
 __Numpy Basics -- Should check these out before anything else!__
 
-[Intro to Numpy](https://www.kaggle.com/coledie/intro-to-numpy/)
+[Intro to Numpy Tutorial](https://www.kaggle.com/coledie/intro-to-numpy/)
 
 * [Monte carlo simulation](https://crunchingnumbers.live/2016/01/24/monte-carlo-simulations-craps/) of the game [craps.](http://www.crapsage.com/craps_rules.php) [Example here.](https://github.com/MissouriMRR/2019Vision/tree/master/Monte-Carlo-Simulation)
 
@@ -50,9 +50,9 @@ __Interested in writing code for the Graphics Card?__
 
 __Interested in classic Computer Vision methods?__
 
-[Intro to CV w/ Numpy](https://www.kaggle.com/coledie/intro-to-computer-vision)
+[Intro to CV w/ Numpy Tutorial](https://www.kaggle.com/coledie/intro-to-computer-vision)
 
-[CV w/ Scipy and OpenCV](https://www.kaggle.com/coledie/intro-to-computer-vision-2)
+[CV w/ Scipy and OpenCV Tutorial](https://www.kaggle.com/coledie/intro-to-computer-vision-2)
 
 * Shrink images to 1/2, 2/3, 3/4 scale with selective column dropping.
 
