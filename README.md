@@ -25,6 +25,8 @@ Create robust unit tests so when you change your code, unit tests do not need to
 
 __Numpy Basics -- Should check these out before anything else!__
 
+[Intro to Numpy](https://www.kaggle.com/coledie/intro-to-numpy/)
+
 * [Monte carlo simulation](https://crunchingnumbers.live/2016/01/24/monte-carlo-simulations-craps/) of the game [craps.](http://www.crapsage.com/craps_rules.php) [Example here.](https://github.com/MissouriMRR/2019Vision/tree/master/Monte-Carlo-Simulation)
 
 * [Image convolver](https://en.wikipedia.org/wiki/Kernel_(image_processing)) with Numpy -- [blurring](https://www.youtube.com/watch?v=C_zFhWdM4ic), [sobel operator for edge detection.](https://www.youtube.com/watch?v=uihBwtPIBxM)
@@ -46,7 +48,11 @@ __Interested in writing code for the Graphics Card?__
 * Compute planet orbits really fast with [CUDA.](https://towardsdatascience.com/writing-lightning-fast-code-with-cuda-c18677dcdd5f)
 
 
-__Interested in analytic Computer Vision methods?__
+__Interested in classic Computer Vision methods?__
+
+[Intro to CV w/ Numpy](https://www.kaggle.com/coledie/intro-to-computer-vision)
+
+[CV w/ Scipy and OpenCV](https://www.kaggle.com/coledie/intro-to-computer-vision-2)
 
 * Shrink images to 1/2, 2/3, 3/4 scale with selective column dropping.
 
@@ -67,11 +73,10 @@ __Interested in Machine Learning?__
 
 * Use [k-means](https://www.datascience.com/blog/k-means-clustering) unsupervised clustering algorithm to change the color of [tomatoes in a salad to blue](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.YCwt0csrYMHvB2aPOqESqwHaLH%26pid%3DApi&f=1) with [sklearn.](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
 
-* Make a handwritten numerical digit classifier w/ [K-Nearest Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm), and upgrade it to a Neural Network! Use the [MNIST dataset to train the model.](http://yann.lecun.com/exdb/mnist/)
+* Create a [reinforcement learning algorithm](https://www.cse.unsw.edu.au/~cs9417ml/RL1/index.html) to play some [openai-gym games](https://gym.openai.com/docs/), ie [q-learning](https://en.wikipedia.org/wiki/Q-learning)! [Sample code.](https://github.com/coledie/q-learning)
 
-* Create a [reinforcement learning algorithm](https://www.cse.unsw.edu.au/~cs9417ml/RL1/index.html) to play some [openai-gym games](https://gym.openai.com/docs/), use [q-learning](https://en.wikipedia.org/wiki/Q-learning)! [Sample code.](https://github.com/coledie/q-learning)
+* Write a neural network [from scratch](https://www.kaggle.com/coledie/neural-network-w-numpy) or [with pytorch](https://www.kaggle.com/coledie/neural-network-pytorch). [These 3Blue1Brown videos may help.](https://www.youtube.com/watch?v=aircAruvnKk&t=94s) [Michael Nielsen book.](http://neuralnetworksanddeeplearning.com/)
 
-* Currently working on a PyTorch / Deep learning notebook, in the meantime check out [these videos.](https://www.youtube.com/watch?v=aircAruvnKk&t=94s) This will be directly applicable to Mission 9 tasks.
 
 ## Resources
 [Intro to Numpy](https://www.kaggle.com/coledie/intro-to-numpy/)
