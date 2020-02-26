@@ -1,5 +1,5 @@
-# 2019Vision
-Goal is to create some interesting projects while waiting for Mission 9 details to be released.
+# 2020Vision
+Resources for getting started with the vision team.
 
 ## Using Git
 Getting remote repo on local pc
@@ -13,13 +13,6 @@ Before working
 * git add <files you want updated on repo&gt;
 * git commit -m "Description of changes here."
 * git push  # push your updates to the remote repo
-
-## Unit testing
-Ensure every feature responds to input the way you expect _in an automated way._
-
-[Python unit testing library](https://docs.python.org/3/library/unittest.html)
-
-Create robust unit tests so when you change your code, unit tests do not need to change much.
 
 ## Project Ideas
 
